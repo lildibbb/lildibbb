@@ -42,7 +42,7 @@ Hey, I'm **Adib Asyraaf**, a **Full-Stack Developer** who loves building high-pe
 
 ![lildibbb's Stats](https://github-readme-stats.vercel.app/api?username=lildibbb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![lildibbb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lildibbb&theme=vue-dark&hide_border=true)
+![lildibbb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lildibbb&theme=vue-dark&hide_border=true) 
 
 ![lildibbb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lildibbb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 

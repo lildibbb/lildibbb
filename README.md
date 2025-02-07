@@ -40,21 +40,12 @@ Hey, I'm **Adib Asyraaf**, a **Full-Stack Developer** who loves building high-pe
 
 ### 📈 GitHub Stats & Activity
 
-![Adib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adibasyraaf&show_icons=true&theme=radical)
+![lildibbb's Stats](https://github-readme-stats.vercel.app/api?username=lildibbb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=adibasyraaf&theme=radical&hide_border=false)
+![lildibbb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lildibbb&theme=vue-dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibasyraaf&layout=compact&theme=radical)
+![lildibbb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lildibbb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
----
-
-
----
-
-### 🎯 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 

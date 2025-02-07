@@ -23,13 +23,13 @@ I specialize in TypeScript, React, and backend development with ElysiaJS & Larav
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Vite](https://skillicons.dev/icons?i=vite)
-![ShadCN UI](https://skillicons.dev/icons?i=tailwind)
+![ShadCN UI](https://shadcn.dev/favicon.ico)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![MagicUI](https://skillicons.dev/icons?i=magicui)
+![MagicUI](https://magicui.dev/favicon.ico)
 
 #### **Backend & Database:**
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![ElysiaJS](https://skillicons.dev/icons?i=js)
+![ElysiaJS](https://skillicons.dev/icons?i=elysia)
 ![BunJS](https://skillicons.dev/icons?i=bun)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Drizzle ORM](https://skillicons.dev/icons?i=sqlite)

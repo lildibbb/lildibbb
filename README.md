@@ -23,9 +23,9 @@ I specialize in TypeScript, React, and backend development with ElysiaJS & Larav
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Vite](https://skillicons.dev/icons?i=vite)
-![ShadCN UI](https://shadcn.dev/favicon.ico)
+![ShadCN UI](https://github.com/shadcn.png)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![MagicUI](https://magicui.dev/favicon.ico)
+![MagicUI](https://github.com/magic-ui.png)
 
 #### **Backend & Database:**
 ![Node.js](https://skillicons.dev/icons?i=nodejs)

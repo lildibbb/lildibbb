@@ -1,12 +1,12 @@
 ![Adib Asyraaf](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0EF7FF&center=true&vCenter=true&width=1000&height=40&lines=Hey+there!+I'm+Adib+Asyraaf+%F0%9F%91%8B;Full-Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80;Passionate+about+building+high-performance+apps!)
 
-![Digimon GIF](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+![Digimon GIF](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 ---
 
 ### 🚀 About Me
 Hey, I'm **Adib Asyraaf**, an **Undergraduate Computer Science Student** and Full-Stack Developer who loves building high-performance web applications.
-I enjoy crafting seamless UI/UX experiences and optimizing applications for speed & scalability.
+I specialize in TypeScript, React, and backend development with ElysiaJS & Laravel. I enjoy crafting seamless UI/UX experiences and optimizing applications for speed & scalability.
 
 💡 **Currently Learning:** Advanced Backend Architectures & Scalable Cloud Solutions.
 

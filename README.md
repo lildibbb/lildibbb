@@ -6,7 +6,7 @@
 Hey, I'm **Adib Asyraaf**, an **Undergraduate Computer Science Student** and Full-Stack Developer who loves building high-performance web applications.
 I specialize in TypeScript, React, and backend development with ElysiaJS & Laravel. I enjoy crafting seamless UI/UX experiences and optimizing applications for speed & scalability.
 
-💡 **Currently Learning:** Advanced Backend Architectures & Scalable Cloud Solutions.
+
 
 📫 **Let's connect!**  
 📧 Email: [adib.asyraaf760@gmail.com](mailto:adib.asyraaf760@gmail.com)  
